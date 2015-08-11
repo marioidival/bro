@@ -17,5 +17,5 @@ or
 bro /path/folder/project/
 ```
 
-
-# README WIP
+### See Demo
+https://youtu.be/Hlvnt5xBYCk
